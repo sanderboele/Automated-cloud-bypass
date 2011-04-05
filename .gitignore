@@ -1,0 +1,4 @@
+.DS_Store
+automation_tool/config/DRAC_config.properties
+reservations.sqlite3
+settings.rb
